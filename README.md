@@ -14,7 +14,7 @@ A modern, responsive e-commerce filters implementation built with React and Tail
 
 ## Tech Stack
 
-- React
+- React + Vite
 - Tailwind CSS
 - Shadcn/ui
 - Lucide Icons
