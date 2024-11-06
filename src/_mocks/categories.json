@@ -1,0 +1,26 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "icon": "DevicesIcon",
+    "description": "Latest gadgets and electronic devices"
+  },
+  {
+    "id": "footwear",
+    "name": "Footwear",
+    "icon": "ShoeIcon",
+    "description": "Sports and casual footwear"
+  },
+  {
+    "id": "clothing",
+    "name": "Clothing",
+    "icon": "TshirtIcon",
+    "description": "Fashion and apparel"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "icon": "WatchIcon",
+    "description": "Fashion accessories"
+  }
+]
