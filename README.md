@@ -18,7 +18,3 @@ A modern, responsive e-commerce filters implementation built with React and Tail
 - Tailwind CSS
 - Shadcn/ui
 - Lucide Icons
-
-## Getting Started
-
-1. Clone the repository:
